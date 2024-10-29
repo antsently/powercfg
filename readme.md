@@ -2,4 +2,4 @@
 
 Небольшие наброски смены электропитания.
 
-![Img](https://github.com/antsently/powercfg/img/1(3).png)
+![Img](https://github.com/antsently/powercfg/blob/main/img/1%20(3).png)
